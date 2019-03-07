@@ -1,0 +1,4 @@
+Dependencies -
+* glib2-devel
+* gobject-introspection-devel
+* gtk3-devel
